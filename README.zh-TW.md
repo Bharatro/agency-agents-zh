@@ -45,21 +45,6 @@
 <table>
 <tr>
 <td width="25%">
-  <a href="https://www.aicodemirror.ai/register?invitecode=XO5L7R">
-    <img src="assets/sponsor-aicodemirror.jpeg" alt="AICodeMirror — Claude / Codex / Gemini 官方高穩定中轉服務，Codex 官方渠道低至 0.7 折" width="100%">
-  </a>
-</td>
-<td width="75%" valign="middle">
-
-感謝 [AICodeMirror](https://www.aicodemirror.ai/register?invitecode=XO5L7R) 贊助了本專案！AICodeMirror 提供 Claude / Codex / Gemini 官方高穩定中轉服務，支援企業級高併發、極速開票、7×24 專屬技術支援。Codex 官方渠道低至 0.7 折，充值更有折上折！🎁 **AICodeMirror 為 agency-agents-zh 專案的使用者提供了特別福利，透過[此連結](https://www.aicodemirror.ai/register?invitecode=XO5L7R)註冊的使用者，可享受首充 8 折！**
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="25%">
   <a href="https://cubence.com/signup?code=SCW29JP9">
     <img src="assets/sponsor-cubence.jpeg" alt="Cubence — 專業 AI API 閘道器，穩定高效的 API 中轉服務，支援 Claude Code、Codex、Gemini 等多種模型" width="100%">
   </a>
