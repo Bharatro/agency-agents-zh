@@ -66,8 +66,7 @@
 </td>
 <td width="75%" valign="middle">
 
-感谢 [字节火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 赞助了本项目！火山方舟 Agent/Coding Plan 国模套餐首购 9.9 元起，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、豆包等主流模型，统一 API，适配编码与智能体开发。
-🎁 **注册即免费领 2500 万 Token，[立即前往火山引擎活动页面](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)。**
+感谢 [字节火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 赞助本项目！火山方舟 Agent/Coding Plan 国模套餐首购 9.9 元，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等，注册免费领 2500 万 Token，统一 API，适配编码与智能体开发。👉 **[立即前往](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)**
 
 </td>
 </tr>
