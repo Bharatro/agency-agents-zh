@@ -61,7 +61,7 @@
 <tr>
 <td width="25%">
   <a href="https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh">
-    <img src="assets/sponsor-volcengine.jpeg" alt="火山引擎 — 火山方舟 Agent/Coding Plan 国模套餐首购 9.9 元起，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、豆包等主流模型" width="100%">
+    <img src="assets/sponsor-volcengine.jpeg" alt="火山引擎 — 火山方舟 Agent/Coding Plan 国模套餐首购 9.9 元，支持 GLM-5.3、Kimi-K3、DeepSeek、MiniMax、Doubao 等主流模型" width="100%">
   </a>
 </td>
 <td width="75%" valign="middle">
