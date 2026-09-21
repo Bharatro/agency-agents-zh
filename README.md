@@ -16,6 +16,8 @@
 [![在线体验](https://img.shields.io/badge/在线体验-ao.aiolaola.com-8b5cf6)](https://ao.aiolaola.com/experts)
 
 
+> 🧠 **新：让 Claude Code / Codex / Cursor / Gemini CLI 不再失忆** → [engram](https://github.com/jnMetaCode/engram)：一条 `npx @jnmetacode/engram install`，自动记住每次会话问过什么、改了哪些文件、最后怎么解决的，下次开会话自动带回（带出处）。**记忆跨工具共享**——Codex 里定的事，Claude Code 也知道。全本地、零依赖、中文友好。
+
 ### 📊 项目规模
 
 | 🤖 AI 智能体 | 🌏 英文版翻译 | 🇨🇳 中国市场原创 | 🧠 支持工具 | 🏢 部门 |
